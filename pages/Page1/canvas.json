@@ -195,7 +195,7 @@
               "labelPosition": "Left",
               "options": [
                 {
-                  "label": "Small",
+                  "label": "tiny",
                   "value": "sm"
                 },
                 {
